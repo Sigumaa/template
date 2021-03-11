@@ -1,0 +1,18 @@
+{
+    "for atcoder":{
+        "prefix":"i",
+        "body":[
+            "include<bits/stdc++.h>",
+            "",
+			"using namespace std;",
+            "",
+            "using ll = long long;",
+            "using P = pair<int,int>;",
+            "",
+            "const int INF = 1001001001;",
+            "",
+			"int main() {}",
+	],
+    "description": "ForAtCoder"//表示される説明文
+    }
+}
